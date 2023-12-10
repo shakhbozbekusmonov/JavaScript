@@ -22,7 +22,7 @@ Bu qadamlar JavaScript bilan ishlashda muhimdir, chunki ular JavaScript kodini t
 ## Answer:
 
 - JavaScript brauzerlarda veb-saytlarni interaktiv ravishda yaratishda ishlatiladigan dasturlash tilidir. Bu til yordamida veb-saytlarda foydalanuvchilar bilan bo'g'liqli interaktivlik yaratish, ma'lumotlarni o'qish, yozish va saqlash, animatsiyalar va ko'p boshqa narsalarni bajarish mumkin. JavaScript single-thread, dynamic-type and weak-type multi paradigm interpretator programming language.
-  [!js-runtime](/images/js-runtime.jpg)
+<img src="./images/js-runtime.png" alt="JS runtime"/>
 
 - Node.js esa JavaScript tilini server tomonida ishlatishga imkoniyat beradigan bir platformadur. Node.js orqali JavaScript tilidagi dasturlarni ishga tushirish, serverda fayllarni o'qish-yozish, veriylarni saqlash va boshqa server-to'g'ri amallarni bajarish mumkin.
 
